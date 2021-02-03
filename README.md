@@ -16,6 +16,5 @@ This is horizontal line
  milk
  tea
 
- how to add html[adssdc](https://apssdc.in)
- [ciet college](https://www.cahlapathiengg.ac.in/
- )
+ how to add html[adssdc] (https://apssdc.in)
+ [ciet college] (https://www.cahlapathiengg.ac.in/)
