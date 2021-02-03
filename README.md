@@ -17,4 +17,6 @@ This is horizontal line
  tea
 
  how to add html[adssdc] (https://apssdc.in)
- [ciet college] (https://www.cahlapathiengg.ac.in/)
+ [ciet college] (https://www.cahlapathiengg.ac.in)
+ [image ] (http://cdn.akc.org/content/article-body-image/samoyed_cute_puppies.jpg)
+ 
